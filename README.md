@@ -82,10 +82,10 @@ python main.py
 
 ## 📌 License
 
-This project is for educational and research use.
+[MIT LICENSE]()
 
 ---
 
-**Happy Coding!** 🚀
+
 
 
