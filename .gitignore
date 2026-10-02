@@ -1,4 +1,32 @@
+# Environments
+.env
 .venv/
-data/fer2013.csv
-models/
+env/
+venv/
+ENV/
 
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs
+.vscode/
+.idea/
+
+# Data and Models
+data/
+models/
+*.csv
+*.pkl
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+logs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
