@@ -79,8 +79,7 @@ python main.py
 
 ## 📌 License
 
-This project is intended for educational, research, and non-commercial usage.
+This project is intended for educational, research, and under the [MIT LICENSE](https://github.com/BipronathSaha12/EmotiSense-AI/blob/main/LICENSE).
 
 ---
 
-**Happy Coding!** 🚀
